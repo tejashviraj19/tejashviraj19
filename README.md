@@ -31,8 +31,8 @@
 
 ## 🧠 Current Project
 
-**DHARA: The Ultimate Hydro Manager**  
-Smart water monitoring & management using sensors, microcontrollers, and IoT for quality and usage optimization.
+**Obstacle Detection System**  
+An intelligent Raspberry Pi–based prototype that detects obstacles, estimates their dimensions and position, and dynamically adjusts motor speed and steering angle to safely navigate around them, mimicking real-world autonomous vehicle behavior
 
 ---
 
