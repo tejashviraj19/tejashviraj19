@@ -6,30 +6,33 @@
   </a>
 </p>
 
-<!-- ✅ Updated GIF (Engineer doing hardware + software integration) -->
+<!-- ✅ Your requested animation -->
 <p align="center">
-  <img alt="Electronics and Embedded Engineer at Work" width="650" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img alt="Coding + Engineering Animation" width="600" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejashviraj19&label=Profile%20views&color=00FF9C&style=flat" alt="tejashviraj19" />
 </p>
 
 ---
 
 ## 💬 About Me
 
-> I'm an **Electronics and Communication Engineer** passionate about designing systems that merge **hardware and software**.  
-> I work on **sensor integration**, **embedded firmware**, and **IoT applications**, turning raw data from circuits into intelligent actions.
+> I'm an **Electronics and Communication Engineer** who works at the intersection of **hardware and software** — sensor integration, embedded firmware, and IoT.
 
 - 🔭 Currently building **Obstacle Detection System**  
-- 🌱 Exploring **Embedded Systems & Microcontrollers (Arduino, ESP32)**  
-- ⚙️ Skilled in **C++**, **sensor interfacing**, and **communication protocols (UART/I²C/SPI)**  
-- 💻 Interested in **IoT & real-world automation**  
-- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/tejashviraj19/)  
+- 🌱 Learning **Embedded Systems & Microcontrollers (Arduino / ESP)**  
+- 💻 Actively coding in **C++**  
+- 🔌 Comfortable with **UART / I²C / SPI**, **sensors**, and **IoT modules**  
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/tejashviraj19/)
 
 ---
 
 ## 🧠 Current Project
 
-🚀 **DHARA: The Ultimate Hydro Manager**  
-A smart water monitoring and management system integrating sensors, microcontrollers, and IoT modules to optimize water quality and usage.
+**DHARA: The Ultimate Hydro Manager**  
+Smart water monitoring & management using sensors, microcontrollers, and IoT for quality and usage optimization.
 
 ---
 
@@ -40,7 +43,7 @@ A smart water monitoring and management system integrating sensors, microcontrol
   <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Sensors-0D1117?style=for-the-badge&logo=probot&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
 </p>
 
@@ -74,8 +77,7 @@ A smart water monitoring and management system integrating sensors, microcontrol
 
 ## 🎯 Focus & Vision
 
-> Bridging **electronics and programming**, I design intelligent embedded systems that connect sensors, circuits, and code —  
-> building smarter, efficient solutions where **hardware meets software.** ⚙️💡  
+> Bridging **electronics and programming**, I design embedded systems that connect **sensors, circuits, and code** — building reliable, efficient, real-world solutions.
 
 ---
 
