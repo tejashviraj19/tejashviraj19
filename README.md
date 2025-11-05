@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img align="center" alt="Coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+  <img align="center" alt="Tech Banner" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 <br>
@@ -36,7 +36,7 @@
 ### 🧠 Currently Working On
 
 🚀 **DHARA: The Ultimate Hydro Manager**  
-A smart water monitoring and management system integrating sensors, IoT modules, and microcontrollers to optimize water quality and usage.
+A smart water monitoring and management system integrating sensors, IoT modules, and microcontrollers to optimize water quality and usage.  
 
 ---
 
@@ -75,13 +75,6 @@ A smart water monitoring and management system integrating sensors, IoT modules,
 ![Tejashvi's GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejashviraj19&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tejashviraj19&theme=tokyonight&margin-w=10)](https://github.com/tejashviraj19/github-profile-trophy)
-
----
-
-### 📈 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tejashviraj19&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://github.com/tejashviraj19)
-
 
 ---
 
