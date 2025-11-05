@@ -2,33 +2,34 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Embedded+Systems+Developer;Arduino+%26+IoT+Integration;Building+Hardware+%2B+Software+Systems&center=true&width=720&height=45&color=00FF9C">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Embedded+Systems+Developer;Hardware+%2B+Software+Integrator;Building+Smart+IoT+Systems+⚙️&center=true&width=720&height=45&color=00FF9C">
   </a>
 </p>
 
-<!-- ✅ Reliable animated GIF (hardware vibe). If it ever fails, the fallback below will show. -->
+<!-- ✅ Updated GIF (Engineer doing hardware + software integration) -->
 <p align="center">
-  <img alt="Embedded Systems Animation" width="650"
-       src="https://media.giphy.com/media/26gscSULUcfKU7dRK/giphy.gif">
-  <br/>
-  <img alt="Fallback - Microchip Animation" width="650"
-       src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejashviraj19&label=Profile%20views&color=00FF9C&style=flat" alt="tejashviraj19" />
+  <img alt="Electronics and Embedded Engineer at Work" width="650" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 ---
 
-## 💡 About Me
+## 💬 About Me
 
-- 🎓 Electronics and Communication Engineer  
+> I'm an **Electronics and Communication Engineer** passionate about designing systems that merge **hardware and software**.  
+> I work on **sensor integration**, **embedded firmware**, and **IoT applications**, turning raw data from circuits into intelligent actions.
+
 - 🔭 Currently building **Obstacle Detection System**  
-- 🌱 Learning **Embedded Systems & Microcontrollers** (Arduino/ESP)  
-- 💻 Actively coding in **C++**  
-- ⚙️ Sensor integration • UART/I²C/SPI • IoT  
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/tejashviraj19/)
+- 🌱 Exploring **Embedded Systems & Microcontrollers (Arduino, ESP32)**  
+- ⚙️ Skilled in **C++**, **sensor interfacing**, and **communication protocols (UART/I²C/SPI)**  
+- 💻 Interested in **IoT & real-world automation**  
+- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/tejashviraj19/)  
+
+---
+
+## 🧠 Current Project
+
+🚀 **DHARA: The Ultimate Hydro Manager**  
+A smart water monitoring and management system integrating sensors, microcontrollers, and IoT modules to optimize water quality and usage.
 
 ---
 
@@ -39,16 +40,9 @@
   <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Sensors-0D1117?style=for-the-badge&logo=probot&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
 </p>
-
----
-
-## 🚀 Currently Working On
-
-**DHARA: The Ultimate Hydro Manager**  
-Smart water monitoring & management using sensors, microcontrollers, and IoT for quality and usage optimization.
 
 ---
 
@@ -78,10 +72,10 @@ Smart water monitoring & management using sensors, microcontrollers, and IoT for
 
 ---
 
-## 🧩 Focus & Goals
+## 🎯 Focus & Vision
 
-> Building **hardware–software integrated** systems: sensor fusion, reliable comms (UART/I²C/SPI), and **Arduino/ESP** automation.  
-> Aim: robust, efficient, scalable **embedded solutions** connecting the physical and digital worlds.
+> Bridging **electronics and programming**, I design intelligent embedded systems that connect sensors, circuits, and code —  
+> building smarter, efficient solutions where **hardware meets software.** ⚙️💡  
 
 ---
 
