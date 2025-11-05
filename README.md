@@ -6,9 +6,13 @@
   </a>
 </p>
 
+<!-- ✅ Reliable animated GIF (hardware vibe). If it ever fails, the fallback below will show. -->
 <p align="center">
-  <!-- Embedded/Hardware vibe (circuits + microcontrollers) -->
-  <img alt="Embedded Systems Engineer" width="650" src="https://i.pinimg.com/originals/61/3f/5d/613f5d3fcb7d6a88c69a06231cbd047b.gif">
+  <img alt="Embedded Systems Animation" width="650"
+       src="https://media.giphy.com/media/26gscSULUcfKU7dRK/giphy.gif">
+  <br/>
+  <img alt="Fallback - Microchip Animation" width="650"
+       src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif">
 </p>
 
 <p align="center">
@@ -23,7 +27,7 @@
 - 🔭 Currently building **Obstacle Detection System**  
 - 🌱 Learning **Embedded Systems & Microcontrollers** (Arduino/ESP)  
 - 💻 Actively coding in **C++**  
-- ⚙️ Comfortable with **sensor integration, serial comms (UART/I²C/SPI), and IoT**  
+- ⚙️ Sensor integration • UART/I²C/SPI • IoT  
 - 📫 Connect: [LinkedIn](https://www.linkedin.com/in/tejashviraj19/)
 
 ---
@@ -76,8 +80,8 @@ Smart water monitoring & management using sensors, microcontrollers, and IoT for
 
 ## 🧩 Focus & Goals
 
-> Building **hardware–software integrated** systems: sensor fusion, reliable comms (UART/I²C/SPI), and **Arduino/ESP**-based automation.  
-> Aim: robust, efficient, and scalable **embedded solutions** that connect the physical and digital worlds.
+> Building **hardware–software integrated** systems: sensor fusion, reliable comms (UART/I²C/SPI), and **Arduino/ESP** automation.  
+> Aim: robust, efficient, scalable **embedded solutions** connecting the physical and digital worlds.
 
 ---
 
