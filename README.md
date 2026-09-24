@@ -20,7 +20,7 @@ sensors  →  embedded firmware  →  control logic  →  connected product
 
 ### Currently Building
 
-**Sensors & Controls Intern · Seisou Labs, Bengaluru** — designing a custom ESP32-S3 embedded PCB in KiCad and evaluating controller architectures for an industrial radiant cooling system.
+**Sensors & Controls Intern · Seisou Labs, Bengaluru** — designing a custom ESP32-based PCB in KiCad with multi-sensor interfaces for temperature, humidity, flow, CO₂, and energy monitoring.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -77,8 +77,8 @@ Embedded hardware and custom PCB development.
 
 |  |  |
 |---|---|
-| **Embedded** | ESP32 / ESP32‑S3 · Arduino · Raspberry Pi · Embedded C · C++ |
-| **PCB & Electronics** | KiCad · Altium · LTSpice · Circuit Design · PCB Layout · VLSI Fundamentals |
+| **Embedded** | ESP32 · Arduino · Raspberry Pi · Embedded C · C++ |
+| **PCB & Electronics** | Altium Designer · KiCad · Altium · LTSpice · Circuit Design · PCB Layout · VLSI Fundamentals |
 | **Sensors & Interfaces** | pH · TDS · Turbidity · RTD · Thermocouple · Flow · CO₂ |
 | **Communication** | UART · I²C · SPI · Modbus |
 | **IoT & Tools** | Blynk · MATLAB / Simulink · Tinkercad · Python · Git / GitHub |
@@ -88,11 +88,10 @@ Embedded hardware and custom PCB development.
 ## Engineering Journey
 
 **Sensors & Controls Intern** · Seisou Labs Private Limited
-`Bengaluru` · Jul 2026 – Present
-- Designed a custom ESP32-S3 embedded PCB in KiCad — multi-sensor interfaces, power management, manufacturing-ready Gerbers
-- Evaluated embedded controller architectures, communication methods, and hardware reliability for an industrial radiant cooling system
-- Ran sensor integration and prototype validation, backed by technical documentation
-
+`Bengaluru` · Jul 2026 – Oct 2026
+- Designed a custom ESP32-based PCB in KiCad with multi-sensor interfaces for temperature, humidity, flow, CO₂, and energy monitoring — full schematic, routing, DRC, and Gerber generation
+- Validated the embedded sensing architecture through sensor calibration, dew-point/MRT calculations, and 60+ hour reliability testing with stable sensor acquisition and Raspberry Pi communication
+- Defined the ESP32–Raspberry Pi–PLC control architecture, implementing Wi-Fi/TCP-IP and Modbus RTU (RS485) communication, and developed dashboard/data-logging features alongside a condensation-protection control strategy
 **Project Intern** · Shitashii Innovations Private Limited
 `IIT Kanpur` · Nov 2025 – Dec 2025
 - Contributed to a wearable ECG/EMG monitoring device — embedded hardware, analog signal conditioning, ESP32, Raspberry Pi
