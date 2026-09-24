@@ -92,6 +92,7 @@ Embedded hardware and custom PCB development.
 - Designed a custom ESP32-based PCB in KiCad with multi-sensor interfaces for temperature, humidity, flow, CO₂, and energy monitoring — full schematic, routing, DRC, and Gerber generation
 - Validated the embedded sensing architecture through sensor calibration, dew-point/MRT calculations, and 60+ hour reliability testing with stable sensor acquisition and Raspberry Pi communication
 - Defined the ESP32–Raspberry Pi–PLC control architecture, implementing Wi-Fi/TCP-IP and Modbus RTU (RS485) communication, and developed dashboard/data-logging features alongside a condensation-protection control strategy
+
 **Project Intern** · Shitashii Innovations Private Limited
 `IIT Kanpur` · Nov 2025 – Dec 2025
 - Contributed to a wearable ECG/EMG monitoring device — embedded hardware, analog signal conditioning, ESP32, Raspberry Pi
