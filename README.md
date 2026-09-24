@@ -78,7 +78,7 @@ Embedded hardware and custom PCB development.
 |  |  |
 |---|---|
 | **Embedded** | ESP32 · Arduino · Raspberry Pi · Embedded C · C++ |
-| **PCB & Electronics** | Altium Designer · KiCad · Altium · LTSpice · Circuit Design · PCB Layout · VLSI Fundamentals |
+| **PCB & Electronics** | Altium Designer · KiCad · LTSpice · Circuit Design · PCB Layout · VLSI Fundamentals |
 | **Sensors & Interfaces** | pH · TDS · Turbidity · RTD · Thermocouple · Flow · CO₂ |
 | **Communication** | UART · I²C · SPI · Modbus |
 | **IoT & Tools** | Blynk · MATLAB / Simulink · Tinkercad · Python · Git / GitHub |
