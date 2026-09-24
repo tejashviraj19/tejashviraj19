@@ -1,88 +1,138 @@
-<h1 align="center"><b>Hey there 👋, I'm Tejashvi Raj</b></h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Embedded+Systems+Developer;Hardware+%2B+Software+Integrator;Building+Smart+IoT+Systems+⚙️&center=true&width=720&height=45&color=00FF9C">
-  </a>
-</p>
+# Tejashvi Raj
 
-<!-- ✅ Your requested animation -->
-<p align="center">
-  <img alt="Coding + Engineering Animation" width="600" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
-</p>
+### Electronics & Embedded Systems Engineer
+Designing embedded hardware, PCBs, and sensor-driven control systems for real-world industrial products.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejashviraj19&label=Profile%20views&color=00FF9C&style=flat" alt="tejashviraj19" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/tejashviraj19/)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=38BDF8)](https://github.com/tejashviraj19)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=flat-square&logo=geeksforgeeks&logoColor=38BDF8)](https://www.geeksforgeeks.org/user/tejashviraj19/)
 
----
+</div>
 
-## 💬 About Me
+<br>
 
-> I'm an **Electronics and Communication Engineer** who works at the intersection of **hardware and software** — sensor integration, embedded firmware, and IoT.
+## About
 
-- 🔭 Currently building **Obstacle Detection System**  
-- 🌱 Learning **Embedded Systems & Microcontrollers (Arduino / ESP)**  
-- 💻 Actively coding in **C++**  
-- 🔌 Comfortable with **UART / I²C / SPI**, **sensors**, and **IoT modules**  
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/tejashviraj19/)
+I work at the intersection of electronics and firmware — building the physical systems and the code that runs them. My focus areas are **embedded systems, PCB design, sensor integration, and industrial automation**, spanning everything from schematic capture to production firmware.
 
----
+Currently a **Sensors & Controls Intern at Seisou Labs**, where I design embedded PCBs and evaluate controller architectures for an industrial radiant cooling system.
 
-## 🧠 Current Project
+<br>
 
-**Obstacle Detection System**  
-An intelligent Raspberry Pi–based prototype that detects obstacles, estimates their dimensions and position, and dynamically adjusts motor speed and steering angle to safely navigate around them, mimicking real-world autonomous vehicle behavior
+## Experience
 
----
+**Sensors & Controls Intern** · Seisou Labs Private Limited
+`Bengaluru, Karnataka` · Jul 2026 – Present
 
-## 🔧 Tech & Tools
+- Designed a custom ESP32-S3 embedded PCB in KiCad — multi-sensor interfaces, power management, and manufacturing-ready Gerber output
+- Evaluated embedded controller architectures, communication methods, and hardware reliability for an industrial radiant cooling system
+- Ran sensor integration and prototype validation, backed by technical documentation for reliable, energy-efficient product development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
-</p>
+**Project Intern** · Shitashii Innovations Private Limited
+`IIT Kanpur, UP` · Nov 2025 – Dec 2025
 
----
+- Contributed to a wearable ECG/EMG monitoring device — embedded hardware, analog signal conditioning, ESP32 and Raspberry Pi
+- Supported embedded hardware integration, Raspberry Pi interfacing, and biomedical signal acquisition
+- Designed PCB schematics and layouts in KiCad; supported hardware validation and component-level debugging
 
-## 🔗 Profiles
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tejashviraj19/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/tejashviraj19/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://github.com/tejashviraj19" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="40" alt="GitHub"/>
-  </a>
-</p>
+## Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+**DHARA — Aqua-Hydro Manager**
+Autonomous monitoring and control system for hydroponic and aquaponic environments.
 
-![Tejashvi's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=tejashviraj19&show_icons=true&theme=chartreuse-dark&border_radius=7.6)
+`ESP32` `Arduino Uno` `C++` `UART` `IoT`
 
-![Tejashvi's GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejashviraj19&theme=github_dark)
+- Multi-parameter water sensing — pH, TDS, turbidity, temperature
+- Automated pH regulation with sensor calibration
+- ESP32 ↔ Arduino UART communication
+- Real-time cloud monitoring via Ubidots
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tejashviraj19&theme=matrix&margin-w=10)](https://github.com/tejashviraj19?tab=repositories)
+[View Project](PROJECT_REPO_URL)
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎯 Focus & Vision
+**Smart Bin — Touchless IoT Dustbin**
+ESP32-based smart waste management system.
 
-> Bridging **electronics and programming**, I design embedded systems that connect **sensors, circuits, and code** — building reliable, efficient, real-world solutions.
+`ESP32` `Blynk IoT` `C++`
 
----
+- Touchless lid operation via ultrasonic sensing
+- Real-time fill-level / overflow detection
+- Servo-driven mechanical control
+- Cloud notifications over IoT connectivity
 
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-</p>
+[View Project](PROJECT_REPO_URL)
 
-<p align="center">⭐ If you like my work, consider starring my repositories!</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**PCB Design Lab**
+Embedded hardware and custom PCB development in KiCad.
+
+`KiCad` `Schematic Capture` `PCB Layout` `DRC` `Gerber`
+
+- Full schematic-to-layout workflow
+- Component selection and footprint creation
+- Routing, placement optimization, DRC verification
+- Manufacturing-ready Gerber generation
+
+[View Repository](PROJECT_REPO_URL)
+
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+*More embedded and hardware projects on [GitHub →](https://github.com/tejashviraj19)*
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tech Stack
+
+**Embedded**
+`ESP32 / ESP32-S3` `Arduino` `Raspberry Pi` `Embedded C` `C++`
+
+**PCB & Electronics**
+`KiCad` `Altium` `LTSpice` `Circuit Design` `PCB Layout` `VLSI Fundamentals`
+
+**Sensors & Interfaces**
+`pH` `TDS` `Turbidity` `RTD` `Thermocouple` `Flow` `CO₂`
+
+**Communication Protocols**
+`UART` `I²C` `SPI` `Modbus`
+
+**IoT & Tools**
+`Blynk` `MATLAB / Simulink` `Tinkercad` `Python` `Git / GitHub`
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejashviraj19&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=38BDF8&icon_color=38BDF8)
+
+</div>
+
+<br>
+
+<div align="center">
+
+**[LinkedIn](https://www.linkedin.com/in/tejashviraj19/) · [GitHub](https://github.com/tejashviraj19) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/tejashviraj19/)**
+
+</div>
