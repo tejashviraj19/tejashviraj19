@@ -34,7 +34,7 @@ Autonomous monitoring and control system for hydroponic and aquaponic environmen
 `ESP32` `Arduino Uno` `C++` `UART` `IoT`
 — multi-parameter water sensing (pH · TDS · turbidity · temperature), automated pH regulation with calibration, ESP32↔Arduino UART link, real-time cloud monitoring.
 
-**[View Project](PROJECT_REPO_URL)**
+**[View Project](https://www.linkedin.com/in/tejashviraj19/details/projects/)**
 
 <br>
 
@@ -51,7 +51,7 @@ ESP32-based smart waste management system.
 - Servo-driven mechanical control
 - Cloud notifications
 
-**[View Project](PROJECT_REPO_URL)**
+**[View Project](https://www.linkedin.com/in/tejashviraj19/details/projects/)**
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +65,7 @@ Embedded hardware and custom PCB development.
 - Placement optimization, DRC verification
 - Manufacturing-ready Gerber output
 
-**[View Repository](PROJECT_REPO_URL)**
+**[View Repository](https://github.com/tejashviraj19/PCB-Design-Lab)**
 
 </td>
 </tr>
