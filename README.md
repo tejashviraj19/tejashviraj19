@@ -103,9 +103,10 @@ Embedded hardware and custom PCB development.
 
 ## GitHub Activity
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tejashviraj19&show_icons=true&theme=dark&hide_border=true&bg_color=05080c&title_color=38bdf8&icon_color=38bdf8&text_color=c9d6df" alt="GitHub stats" width="48%">
-</div>
+<p align="center">
+  <a href="https://github.com/tejashviraj19"><img src="https://img.shields.io/github/followers/tejashviraj19?style=flat-square&logo=github&logoColor=38bdf8&label=Followers&color=0a0a0a&labelColor=0a0a0a" alt="Followers"></a>
+  <a href="https://github.com/tejashviraj19?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View_all-0a0a0a?style=flat-square&logo=github&logoColor=38bdf8" alt="Repositories"></a>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
